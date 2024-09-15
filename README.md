@@ -1,8 +1,8 @@
 ## Olá! Eu sou Jessica Santos 😊
 
 
-[![Whatsapp](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://api.whatsapp.com/send?phone=5511962046895&text=Ol%C3%A1,%20estou%20entrando%20em%20contato%20com%20voc%C3%AA%20atraves%20do%20link%20do%20seu%20portf%C3%B3lio.)
 [![Likedin](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.linkedin.com/in/jessica-santos-devwoman/)
+[![Whatsapp](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://api.whatsapp.com/send?phone=5511962046895&text=Ol%C3%A1,%20estou%20entrando%20em%20contato%20com%20voc%C3%AA%20atraves%20do%20link%20do%20seu%20portf%C3%B3lio.)
 
 ![Jessi GitHub stats](https://github-readme-stats.vercel.app/api?username=jeesantilva&show_icons=true&theme=dracula)
 
